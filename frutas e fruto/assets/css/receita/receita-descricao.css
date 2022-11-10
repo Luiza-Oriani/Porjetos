@@ -1,0 +1,20 @@
+.receita__descricao{
+    font-size: 1.1875rem;
+    line-height: 1.5;
+    text-align: justify;
+}
+@media screen and (min-width: 0) {
+       .receita__descricao{
+        
+       }
+}
+@media screen and (min-width: 768px) {
+    .receita__descricao{
+
+    }
+}
+@media screen and (min-width: 992px) {
+ .receita__descricao{
+
+ }
+}
